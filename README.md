@@ -33,3 +33,8 @@ you should be able to clone this repo to your new src directory
 ```
 git clone https://github.com/danram0121/ros2_my_robot.git
 ```
+
+## Dependencies
+
+- Colcon
+- TBD
